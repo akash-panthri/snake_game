@@ -1,0 +1,1 @@
+I coded this snake game project while watching https://youtu.be/QTcIXok9wNY
